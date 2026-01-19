@@ -6,6 +6,8 @@
 
 This is a **Power BI data visualization project** created using a Netflix dataset containing **movies and TV shows**.
 A **single interactive dashboard** is designed to answer multiple analytical questions related to content trends, ratings, and audience behaviour over the last **50+ years**.
+<img width="772" height="470" alt="image" src="https://github.com/user-attachments/assets/3cc8949c-4fbf-4334-b674-e75cf3e8dfef" />
+
 
 
 📂 Dataset Summary
